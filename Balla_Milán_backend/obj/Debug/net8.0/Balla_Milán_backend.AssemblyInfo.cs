@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Balla_Milán_backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22b59be907a2fce01c70cf1679f89abc19928b2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Balla_Milán_backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Balla_Milán_backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

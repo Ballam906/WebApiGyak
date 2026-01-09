@@ -29,7 +29,7 @@ namespace Balla_Milán_backend.Controllers
                     return StatusCode(200, new { result = Au });
                 }
 
-                return StatusCode(404, new { result = "" });
+                return StatusCode(404);
             }
             catch (Exception ex)
             {

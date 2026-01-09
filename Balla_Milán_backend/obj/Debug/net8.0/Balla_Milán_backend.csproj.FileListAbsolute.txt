@@ -127,3 +127,4 @@ C:\Users\autowolf\source\repos\Balla_Milán_backend\Balla_Milán_backend\obj\Deb
 C:\Users\autowolf\source\repos\Balla_Milán_backend\Balla_Milán_backend\obj\Debug\net8.0\Balla_Milán_backend.pdb
 C:\Users\autowolf\source\repos\Balla_Milán_backend\Balla_Milán_backend\obj\Debug\net8.0\Balla_Milán_backend.genruntimeconfig.cache
 C:\Users\autowolf\source\repos\Balla_Milán_backend\Balla_Milán_backend\obj\Debug\net8.0\ref\Balla_Milán_backend.dll
+C:\Users\autowolf\source\repos\Balla_Milán_backend\Balla_Milán_backend\obj\Debug\net8.0\Balla_Milán_backend.sourcelink.json
