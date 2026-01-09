@@ -1,0 +1,69 @@
+[
+  {
+    "ContainingType": "Balla_Mil\u00E1n_backend.Controllers.authorsController",
+    "Method": "Feladat12",
+    "RelativePath": "api/authors/feladat12",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Balla_Mil\u00E1n_backend.Controllers.authorsController",
+    "Method": "Feladat9",
+    "RelativePath": "api/authors/feladat9",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "authorname",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Balla_Mil\u00E1n_backend.Controllers.booksController",
+    "Method": "Feladat10",
+    "RelativePath": "api/books/feladat10",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Balla_Mil\u00E1n_backend.Controllers.booksController",
+    "Method": "Feladat13",
+    "RelativePath": "api/books/feladat13",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userkey",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ujkonyv",
+        "Type": "Balla_Mil\u00E1n_backend.Models.Dtos.bookHozzaadasDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Balla_Mil\u00E1n_backend.Controllers.categoriesController",
+    "Method": "Feladat11",
+    "RelativePath": "api/categories/feladat11",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
