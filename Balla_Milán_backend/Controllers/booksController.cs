@@ -54,6 +54,7 @@ namespace Balla_Milán_backend.Controllers
 
 
                     _context.Books.Add(konyv);
+                    _context.SaveChanges();
 
                     return StatusCode(201, "Könyv hozzáadása sikeresen megtörtént.");
                 }
